@@ -1,0 +1,28 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    place-items: center;
+}
+body{
+    background-color: cadetblue;
+}
+table:not(.form) tr:first-child{
+    font-weight: bolder;
+}
+table:not(.form){
+    text-align: center;
+}
+div{
+    background-color: whitesmoke;
+    margin: 50px;
+    padding: 20px;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+input{
+    place-items:initial
+}
+p{
+    font-weight: bolder;
+}
