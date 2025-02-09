@@ -2,6 +2,10 @@
 
 El Sistema de Inscripción Cursos es una aplicación web en PHP que permite inscribir usuarios en cursos y baremarlos según sus características. Utiliza la API PDO para interactuar con una base de datos MySQL de manera segura y eficiente. Guarda en la base de datos a administradores y candidatos a cursos. Además, se envían correos a través de la librería PHPMailer y se generan PDFs confirmatorios del curso asignado mediante la librería FPDF.
 
+## 📷 Screenshots
+
+![App Screenshot](https://borjacamara.es/src/images/app_gestionacursos.JPG)
+
 # 🛠️ Tecnologías Utilizadas
 
 💻 Lenguaje de Programación: PHP<br>
